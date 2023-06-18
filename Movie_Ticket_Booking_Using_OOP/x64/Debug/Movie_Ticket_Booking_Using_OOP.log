@@ -1,0 +1,6 @@
+﻿  Movie_Ticket_Booking_Using_OOP.cpp
+C:\Users\NOR\Desktop\My Study\OOP\Movie_Ticket_Booking_Using_OOP\Movie_Ticket_Booking_Using_OOP.cpp(409,101): warning C4101: 'price': unreferenced local variable
+C:\Users\NOR\Desktop\My Study\OOP\Movie_Ticket_Booking_Using_OOP\Movie_Ticket_Booking_Using_OOP.cpp(409,32): warning C4101: 'number_of_individuals': unreferenced local variable
+C:\Users\NOR\Desktop\My Study\OOP\Movie_Ticket_Booking_Using_OOP\Movie_Ticket_Booking_Using_OOP.cpp(634,18): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\NOR\Desktop\My Study\OOP\Movie_Ticket_Booking_Using_OOP\Movie_Ticket_Booking_Using_OOP.cpp(656,29): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\NOR\Desktop\My Study\OOP\Movie_Ticket_Booking_Using_OOP\Movie_Ticket_Booking_Using_OOP.cpp(694,14): warning C4309: 'initializing': truncation of constant value
